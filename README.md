@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+This is  just a frontend UI developed, further I'd like to add sort of Nodejs and MongoDB with API integration
+This will be at the final stage with total MERN development.
+initially just a frontend and would like to add the backend part!
+
+i had also used the "material UI" so pls use that npm command too.  
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
